@@ -20,4 +20,4 @@
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=0206cho&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Minsol's github stats" />
   
   
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=d2c1f7&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
