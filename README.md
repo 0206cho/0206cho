@@ -30,6 +30,7 @@
 <p align="center">
   <a href="mailto:minisol206@naver.com"><img src="https://img.shields.io/badge/minisol206@naver.com-30B980?style=flat-square&logo=Gmail&logoColor=white&link=minisol206@naver.com"/></a>
   <a href="https://0206cho.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://0206cho.tistory.com/"/></a>&nbsp
-  <a href="[https://www.linkedin.com/in/minsol-kim-05ab63276]" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=square&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/minsol-kim-05ab63276" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=square&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
 </p>
